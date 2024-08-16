@@ -1,0 +1,32 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.header1{
+    display: flex;
+    align-items: center;
+}
+.header2{
+   padding-right: 50px;
+}
+.header-logo{
+    height: 30px;
+}
+.element{
+    margin-left: 1.5em;
+}
+.header button ,main button{
+    padding: 10px 15px;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    font-size:12px;
+    font-weight: 600;
+    background-color: rgb(151, 61, 236);
+}
+.header .signin{
+    background-color: white;
+    color: black;
+}
